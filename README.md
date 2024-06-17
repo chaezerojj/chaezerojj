@@ -9,7 +9,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaezerojj&layout=compact)
 
 ### Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chaezerojj&repo=growgreen)](https://github.com/ijyan/project-growgreen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chaezerojj&repo=project-growgreen)](https://github.com/ijyan/project-growgreen)
 
 <!--
 **chaezerojj/chaezerojj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
