@@ -1,8 +1,11 @@
-## Welcome! It's Chaezerojj's GitHub😎
+## Chaezerojj😎
 
-## Skills
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+### Skills
+
+<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/java-white.svg?style=for-the-badge" />
 
