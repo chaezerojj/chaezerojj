@@ -1,6 +1,6 @@
 ## Chaezerojj😎
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=첫번째+줄+의+텍스트;두번째+줄+의+텍스트)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요,+꿈꾸는+개발자+진채영입니다!;Hello.+I'm+Jin+Chae+Young!)](https://git.io/typing-svg)
 
 ### Skills
 
