@@ -15,8 +15,5 @@
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=springboot&logoColor=white" />
 
 
-<!--
 ### Statics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaezerojj&layout=compact)
-
--->
