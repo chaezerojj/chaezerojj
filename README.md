@@ -21,3 +21,6 @@
 
 ### Statics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaezerojj&layout=compact)
+
+### Stats
+![Chaezerojj's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaezerojj&show_icons=true&theme=transparent)
