@@ -24,3 +24,6 @@
 
 ### Stats
 ![Chaezerojj's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaezerojj&show_icons=true&theme=transparent)
+
+### Baekjoon
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=devchaezerojj)](https://solved.ac/devchaezerojj/)
