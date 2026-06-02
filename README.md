@@ -28,7 +28,7 @@ I also care about turning the thoughts and structures behind implementation into
 
 ## Projects
 
-🤟 **오손도손**  
+🤟 **[오손도손](https://github.com/chaezerojj/OsonDoson)**  
 - 수어와 음성·텍스트 간 양방향 소통을 지원하는 AI 수어 통역 서비스  
 - 음성·텍스트를 3D 수어 아바타로 변환하고, 수어 입력을 텍스트·음성으로 전달해 농인과 청인의 자연스러운 대화를 돕는 서비스
 
